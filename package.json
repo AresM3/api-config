@@ -1,5 +1,5 @@
 {
-  "name": "@m3team/api-config",
+  "name": "@aresm3/api-config",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^11.0.0",
