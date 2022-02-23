@@ -1,6 +1,10 @@
 {
   "name": "@aresm3/api-config",
   "version": "1.0.0",
+  "scripts": {
+    "build": "ng build api-config --prod",
+    "pub": "cd dist & npm publish"
+  },
   "peerDependencies": {
     "@angular/common": "^11.0.0",
     "@angular/core": "^11.0.0",
